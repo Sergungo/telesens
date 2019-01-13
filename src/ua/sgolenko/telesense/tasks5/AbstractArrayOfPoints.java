@@ -28,7 +28,7 @@ public abstract class AbstractArrayOfPoints {
             mustSort = false;
             for (int i = 0; i < count() - 1; i++) {
                 if (getX(i) > getX(i + 1)) {
-                    // ������ �������� �������
+
                     double x = getX(i);
                     double y = getY(i);
                     setPoint(i, getX(i + 1), getY(i + 1));
