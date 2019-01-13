@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="telesense:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/telesense_jar</output-path>
-    <root id="archive" name="telesense.jar">
-      <element id="module-output" name="telesense" />
-    </root>
-  </artifact>
-</component>
