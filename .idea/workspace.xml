@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2884d6c-872f-4d8c-9f33-19eebb3c4b76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +19,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java">
+        <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks6/FuncMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
-              <folding>
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#1664#1665#0" expanded="true" />
-                <element signature="e#1716#1717#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/MinValue.java">
+        <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks6/MinValue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
@@ -45,7 +37,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FunctionToPrint.java">
+        <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks6/FunctionToPrint.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
@@ -96,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FunctionToPrint.java" />
         <option value="$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/MinValue.java" />
         <option value="$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java" />
+        <option value="$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks6/FuncMin.java" />
       </list>
     </option>
   </component>
@@ -127,30 +120,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="telesense" type="b2602c69:ProjectViewProjectNode" />
-              <item name="telesense" type="462c0819:PsiDirectoryNode" />
+              <item name="telesens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telesens" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="telesense" type="b2602c69:ProjectViewProjectNode" />
-              <item name="telesense" type="462c0819:PsiDirectoryNode" />
+              <item name="telesens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telesens" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="telesense" type="b2602c69:ProjectViewProjectNode" />
-              <item name="telesense" type="462c0819:PsiDirectoryNode" />
+              <item name="telesens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telesens" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="telesense" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="telesense" type="b2602c69:ProjectViewProjectNode" />
-              <item name="telesense" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="telesense" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="telesense" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="telesens" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +147,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547477704169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547481465210" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -201,12 +183,12 @@
       </method>
     </configuration>
     <configuration name="Fibonachi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesense.tasks3.Fibonachi" />
-      <module name="telesense" />
+      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesens.tasks3.Fibonachi" />
+      <module name="telesens" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.sgolenko.telesense.tasks4.*" />
+          <option name="PATTERN" value="ua.sgolenko.telesens.tasks4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +197,12 @@
       </method>
     </configuration>
     <configuration name="FuncMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesense.tasks6.FuncMin" />
-      <module name="telesense" />
+      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesens.tasks6.FuncMin" />
+      <module name="telesens" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.sgolenko.telesense.tasks6.*" />
+          <option name="PATTERN" value="ua.sgolenko.telesens.tasks6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +211,12 @@
       </method>
     </configuration>
     <configuration name="SortBackAndNormal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesense.tasks4.SortBackAndNormal" />
-      <module name="telesense" />
+      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesens.tasks4.SortBackAndNormal" />
+      <module name="telesens" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.sgolenko.telesense.tasks4.*" />
+          <option name="PATTERN" value="ua.sgolenko.telesens.tasks4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +225,12 @@
       </method>
     </configuration>
     <configuration name="SumOfPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesense.tasks4.SumOfPositive" />
-      <module name="telesense" />
+      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesens.tasks4.SumOfPositive" />
+      <module name="telesens" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.sgolenko.telesense.tasks4.*" />
+          <option name="PATTERN" value="ua.sgolenko.telesens.tasks4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +239,12 @@
       </method>
     </configuration>
     <configuration name="Translator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesense.tasks5.Translator" />
-      <module name="telesense" />
+      <option name="MAIN_CLASS_NAME" value="ua.sgolenko.telesens.tasks5.Translator" />
+      <module name="telesens" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.sgolenko.telesense.tasks5.*" />
+          <option name="PATTERN" value="ua.sgolenko.telesens.tasks5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,14 +336,20 @@
       <option name="project" value="LOCAL" />
       <updated>1547468273135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="code modified">
+      <created>1547481379480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547481379480</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27651006" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28053692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -376,7 +364,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32796487" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -398,76 +386,76 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Practice/src/topic4hometasks/Corrector.java" />
-    <entry file="file://$PROJECT_DIR$/telesense.iml">
+    <entry file="file://$PROJECT_DIR$/telesens.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Scanner.java" />
     <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telessense/tasks3/degreeOfEight.java" />
     <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telessense/tasks3/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks3/degreeOfEight.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks3/degreeOfEight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks3/ToBinary.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks3/ToBinary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks3/ToBinaryReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks3/ToBinaryReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks3/Fibonachi.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks3/Fibonachi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-45">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks4/_test.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks4/_test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks4/SortBackAndNormal.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks4/SortBackAndNormal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks4/SumOfPositive.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks4/SumOfPositive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks5/Point.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks5/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks5/RemoveWords.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks5/RemoveWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks5/Corrector.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks5/Corrector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
@@ -475,65 +463,59 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks5/ArrayWithTwoDimensionalArray.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks5/ArrayWithTwoDimensionalArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-26">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks5/ArrayWithTwoArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks5/ArrayWithTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks5/AbstractArrayOfPoints.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks5/AbstractArrayOfPoints.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="43" lean-forward="true" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks5/Translator.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks5/Translator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks5/ArrayOfPointObjects.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks5/ArrayOfPointObjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FunctionToPrint.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks6/FuncMin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="136">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/MinValue.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks6/MinValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesens/tasks6/FunctionToPrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#1664#1665#0" expanded="true" />
-            <element signature="e#1716#1717#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
