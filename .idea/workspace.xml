@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2884d6c-872f-4d8c-9f33-19eebb3c4b76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java" afterDir="false" />
     </list>
@@ -22,13 +23,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+            <state relative-caret-position="299">
+              <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
               <folding>
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#1083#1084#0" expanded="true" />
-                <element signature="e#1135#1136#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#1664#1665#0" expanded="true" />
+                <element signature="e#1716#1717#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FunctionToPrint.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -106,7 +107,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1935" />
@@ -164,7 +165,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547468903578" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547477704169" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -306,10 +307,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Fibonachi" />
-      <item itemvalue="Application.FuncMin" />
       <item itemvalue="Application.SortBackAndNormal" />
       <item itemvalue="Application.SumOfPositive" />
       <item itemvalue="Application.Translator" />
+      <item itemvalue="Application.FuncMin" />
     </list>
     <recent_temporary>
       <list>
@@ -357,10 +358,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27238807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27651006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,7 +370,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3434453" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34260616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -512,7 +513,7 @@
     <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FunctionToPrint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -525,13 +526,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/sgolenko/telesense/tasks6/FuncMin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        <state relative-caret-position="299">
+          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
           <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
-            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#1716#1717#0" expanded="true" />
           </folding>
         </state>
       </provider>
