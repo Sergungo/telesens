@@ -1,4 +1,4 @@
-package ua.sgolenko.telesense.tasks6;
+package ua.sgolenko.telesens.tasks6;
 
 public class FuncMin implements MinValue {
 

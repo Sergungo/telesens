@@ -1,4 +1,4 @@
-package ua.sgolenko.telesense.tasks3;
+package ua.sgolenko.telesens.tasks3;
 
 import java.util.Scanner;
 

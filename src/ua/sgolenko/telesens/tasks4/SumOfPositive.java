@@ -1,4 +1,4 @@
-package ua.sgolenko.telesense.tasks4;
+package ua.sgolenko.telesens.tasks4;
 
 public class SumOfPositive {
 

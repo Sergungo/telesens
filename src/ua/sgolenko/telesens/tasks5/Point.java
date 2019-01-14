@@ -1,4 +1,4 @@
-package ua.sgolenko.telesense.tasks5;
+package ua.sgolenko.telesens.tasks5;
 public class Point {
     private double x, y;
 

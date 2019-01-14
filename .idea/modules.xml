@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/telesense.iml" filepath="$PROJECT_DIR$/telesense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telesens.iml" filepath="$PROJECT_DIR$/telesens.iml" />
     </modules>
   </component>
 </project>
