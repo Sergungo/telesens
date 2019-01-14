@@ -1,7 +1,6 @@
 package ua.sgolenko.telesense.tasks6;
 
 public interface MinValue {
-    double a(double x);
-
+    double a(double x, double y);
 
 }
