@@ -106,7 +106,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1935" />
@@ -276,7 +276,6 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -307,10 +306,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Fibonachi" />
+      <item itemvalue="Application.FuncMin" />
       <item itemvalue="Application.SortBackAndNormal" />
       <item itemvalue="Application.SumOfPositive" />
       <item itemvalue="Application.Translator" />
-      <item itemvalue="Application.FuncMin" />
     </list>
     <recent_temporary>
       <list>
