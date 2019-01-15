@@ -1,6 +1,6 @@
 package ua.sgolenko.telesens.tasks6_1;
 
-class MyFunction implements MinValue {
+class MyFunction implements Function {
 
     @Override
     public double a(double x, double y) {

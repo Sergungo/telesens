@@ -5,7 +5,7 @@ public class InterfaceTestWithNonameClass {
 
     public static void main(String[] args) {
         System.out.println("Noname class approach: ");
-        System.out.println(FuncMin.printMin(-2, 2, 0.5, new MinValue() {
+        System.out.println(FuncMin.printMin(-2, 2, 0.5, new Function() {
             public double a(double x, double y) {
                 return x < y ? x : y;
             }
