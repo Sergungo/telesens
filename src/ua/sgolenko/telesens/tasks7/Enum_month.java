@@ -1,99 +1,106 @@
 package ua.sgolenko.telesens.tasks7;
 
-
-import java.text.DateFormatSymbols;
-
-enum Month {
-    January, February, March, April, May, June, July, August, September, October, November, Decemder;
+import java.time.Month;
+import java.time.format.TextStyle;
+import java.util.Locale;
 
 
-    String getMonthForInt(int num) {
-        String month = "wrong";
-        DateFormatSymbols dfs = new DateFormatSymbols();
-        String[] months = dfs.getMonths();
-        if (num > 0 && num <= 11 ) {
-            month = months[num-1];
+enum Months {
+    JANUARY(31), FEBRUARY(28), MARCH(31), APRIL(30), MAY(31), JUNE(31),
+    JULY(30), AUGUST(31), SEPTEMBER(30), OCTOBER(31), NOVEMBER(30), DECEMBER(31);
+
+    int days;
+
+    Months(int days) {
+        this.days = days;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Months{ " + this.name() + " days=" + days + " season=" + this.getSeason() + " " +
+
+                '}';
+    }
+
+    static void transalate(Months a) {
+        Month temp = Month.valueOf(a.name());
+        System.out.println(temp.getDisplayName(TextStyle.FULL.asStandalone(), new Locale("uk", "UA")));
+        System.out.println(temp.getDisplayName(TextStyle.FULL.asStandalone(), new Locale("ru", "RU")));
+
+    }
+
+    public Months getPreviousMonth(Months a) {
+        System.out.println("Previous month was: ");
+        Month temp = Month.valueOf(a.name());
+        temp = temp.minus(1);
+        return a.values()[temp.ordinal()];
+
+    }
+
+    public Months getNextMonth(Months a) {
+        System.out.println("Next month will be: ");
+        Month temp = Month.valueOf(a.name());
+        temp = temp.plus(1);
+//        System.out.println(temp.ordinal());
+        return a.values()[temp.ordinal()];
+
+    }
+
+    public String getSeason() {
+
+
+        switch (this) {
+
+            case JANUARY:
+            case FEBRUARY:
+            case DECEMBER:
+                return "Winter";
+            case MARCH:
+            case APRIL:
+            case MAY:
+                return "Spring";
+            case JUNE:
+            case JULY:
+            case AUGUST:
+                return "Summer";
+            case SEPTEMBER:
+            case OCTOBER:
+            case NOVEMBER:
+                return "Autumn";
+            default:
+                return "not month";
         }
-        return month;
-    }
 
-    public void getPreviousMonth(Month a) {
-        if (a.ordinal() > 0)
-            System.out.println(a.values()[a.ordinal() - 1]);
-        else
-            System.out.println(a.values()[Month.values().length - 1]);
-
-    }
-
-    public void getNextMonth(Month a) {
-        if (a.ordinal() < Month.values().length - 1)
-            System.out.println(a.values()[a.ordinal() + 1]);
-        else
-            System.out.println(a.values()[0]);
-
-    }
-
-    public void getSeason(Month a) {
-        switch (a) {
-            case January:
-                System.out.println("Winter");
-                break;
-            case February:
-                System.out.println("Winter");
-                break;
-            case March:
-                System.out.println("Spring");
-                break;
-            case April:
-                System.out.println("Spring");
-                break;
-            case May:
-                System.out.println("Spring");
-                break;
-            case June:
-                System.out.println("Summer");
-                break;
-            case July:
-                System.out.println("Summer");
-                break;
-            case August:
-                System.out.println("Summer");
-                break;
-            case September:
-                System.out.println("Autumn");
-                break;
-            case October:
-                System.out.println("Autumn");
-                break;
-            case November:
-                System.out.println("Autumn");
-                break;
-            case Decemder:
-                System.out.println("Winter");
-                break;
-
-        }
     }
 }
 
 public class Enum_month {
 
+
     public static void main(String[] args) {
 
+        Months temp = Months.MARCH;
+
+        System.out.println("Current month is: ");
+
+        temp.transalate(temp);
+
+        temp.toString();
+
+        temp.transalate(temp.getPreviousMonth(temp));
+
+        temp.transalate(temp.getNextMonth(temp));
+
+        System.out.println();
+        System.out.println(temp.getSeason());
+        System.out.println();
+
+        for (int i = 0; i < Months.values().length; i++) {
+            System.out.println(Months.values()[i].toString());
+        }
 
 
-        Month temp;
-        temp = Month.March;
-
-        temp.getPreviousMonth(temp);
-
-        temp.getNextMonth(temp);
-
-        temp.getSeason(temp);
-
-        System.out.println(temp.getMonthForInt(4));
     }
 
 }
-
-
